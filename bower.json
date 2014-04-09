@@ -1,0 +1,30 @@
+{
+  "name": "vimeo-gallery-angular",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vmalyk/vimeo-gallery-angular",
+  "authors": [
+    "Volodymyr <vovin.vm@gmail.com>"
+  ],
+  "description": "Vimeo Gallery on Angular",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-route": "~1.2.16",
+    "jcarousel": "~0.3.0",
+    "jquery": "1.11.0",
+    "angular-facebook": "~0.2.2",
+    "vimeo-player-api": "*"
+  }
+}
